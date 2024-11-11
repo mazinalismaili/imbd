@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mazin\\source\\repos\\imdb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\migrations\\20241111192000_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\migrations\\20241111192000_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\models\\imdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\models\\imdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\areas\\identity\\data\\imdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\areas\\identity\\data\\imdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|c:\\users\\mazin\\source\\repos\\imdb\\imdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E445416C-5BFD-4A28-B68C-A2E1057BEC25}|imdb\\imdb.csproj|solutionrelative:imdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241111192000_addIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Migrations\\20241111192000_addIdentity.cs",
+              "RelativeDocumentMoniker": "imdb\\Migrations\\20241111192000_addIdentity.cs",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Migrations\\20241111192000_addIdentity.cs",
+              "RelativeToolTip": "imdb\\Migrations\\20241111192000_addIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:20:00.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "imdb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "imdb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T19:11:33.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "imdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Areas\\Identity\\Data\\imdbContext.cs",
+              "RelativeDocumentMoniker": "imdb\\Areas\\Identity\\Data\\imdbContext.cs",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Areas\\Identity\\Data\\imdbContext.cs",
+              "RelativeToolTip": "imdb\\Areas\\Identity\\Data\\imdbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:03:28.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "imdb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "imdb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T19:00:05.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Models\\ImdbContext.cs",
+              "RelativeDocumentMoniker": "imdb\\Models\\ImdbContext.cs",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Models\\ImdbContext.cs",
+              "RelativeToolTip": "imdb\\Models\\ImdbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:58:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\appsettings.json",
+              "RelativeDocumentMoniker": "imdb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\appsettings.json",
+              "RelativeToolTip": "imdb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T18:54:06.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Program.cs",
+              "RelativeDocumentMoniker": "imdb\\Program.cs",
+              "ToolTip": "C:\\Users\\Mazin\\source\\repos\\imdb\\imdb\\Program.cs",
+              "RelativeToolTip": "imdb\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:54:04.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
